@@ -1,0 +1,178 @@
+body{
+    margin: 60px 0px 20px 250px;
+    width: 1440px; 
+}
+.heading{
+    display:flex;
+    flex-direction:row;
+    gap:800px;
+    
+    
+}
+
+.head-logo{
+    background-color: hsl(198, 28%, 93%);
+    text-decoration: none;
+    text-align: center;
+    height:50;
+    width:150px;
+    color:hsl(220, 50%, 17%);
+    padding-top: 10px;
+    border-radius: 10px;
+    font-family: 'Barlow Condensed';
+    font-weight:  400px, 700px;
+    font-size: 15px;
+
+
+
+   
+    
+}
+#typemaster{
+    font-family: 'Barlow Condensed';
+    font-weight:  400px, 700px;
+    color:hsl(220, 50%, 17%);
+    font-size: 50px;
+
+
+}
+#typemaster-cont{
+color:hsl(221, 23%, 58%);
+font-family:'Barlow' ;
+font-size: 18px;
+padding-bottom: 40px;
+}
+#button{
+    text-decoration: none;
+    background-color: hsl(22, 89%, 52%);
+    color:hsl(0, 0%, 100%);
+    width:120px;
+    height:50px;
+    border-radius: 10px;
+    font-family:'Barlow' ;
+    text-align: center;
+    padding-top: 10px;
+
+    
+}
+#release{
+    color:hsl(221, 23%, 58%);
+    font-family:'Barlow' ;
+    font-size: 18px;
+font-weight: 400px;
+    
+}
+
+.btn{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    gap:20px;
+}
+.head2{
+    display:flex;
+ flex-direction: row; 
+ margin-top: 20px;
+    
+}
+.headcontent{
+ display:flex ;
+ flex-direction: column;
+ 
+
+ /* align-content: ; */
+ margin-bottom: 0px;
+ padding-bottom: 20px; 
+}
+.keyboard{
+    /* float: right; */
+    height: 300px;
+    width:400px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.side{
+    display:flex;
+    flex-direction: row;
+    /* justify-content: space-evenly; */
+}
+.keyboard2{
+    height:350px;
+    border-radius: 10px;
+    
+
+}
+.glass{
+     padding-left: 20px; 
+}
+.phone{
+    background-color: hsla(22, 89%, 52%, 0.374);
+    
+}
+.side-font{
+    padding-left: 100px;
+
+}
+#mech{
+    font-family: 'Barlow Condensed';
+    font-weight:  400px, 700px;
+    color:hsl(220, 50%, 17%);
+    font-size: 40px;
+}
+
+#mech-cont{
+    color:hsl(221, 23%, 58%);
+    font-family:'Barlow' ;
+    font-size: 18px;
+font-weight: 400px;
+}
+
+
+
+
+
+
+
+
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-evenly; */
+    gap:80px;
+    margin-top: 100px;
+    margin-right: 10px;
+}
+.foot-sec{
+    display: flex;
+    flex-direction: column;
+    width:150px;
+    height:100px;
+}
+.logo{
+    width:60px;
+    height:50px;
+    background-color: hsl(22, 89%, 52%);
+    border-radius: 10px;
+    
+
+}
+.foot-head{
+    color:hsl(220, 50%, 17%);
+    font-family: 'Barlow Condensed';
+    font-weight:  400px, 700px;
+    font-size: 20px;
+}
+.foot-sec{
+    color:hsl(221, 23%, 58%);
+    font-family:'Barlow' ;
+    font-size: 15px;
+/* font-weight: 400px; */
+}
+.rights{
+ display: block;
+ margin-bottom: 200px;
+ float: right;
+}
